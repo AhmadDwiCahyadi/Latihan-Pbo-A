@@ -1,4 +1,4 @@
-
+# Print numbers 1 to 101 each on a new line
 for i in range(1, 101):
     if i % 10 == 0:
         print("NAMA SAYA AHMAD")
